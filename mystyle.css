@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(250, 109, 180,0.6);
+    /*pink background with 60% opacity */
+}
+div{
+    background-color: yellow;
+
+}
+p{
+    background-color: lightblue;
+}
+h1{
+    color: red;
+    width: 600px;
+    height: 250px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJXxpmLrxJUIIkltU26ZEErhWgM3-RBRcCw&usqp=CAU");
+    background-repeat: repeat-x;
+    background-position: right top;
+}
+.image{
+    
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJXxpmLrxJUIIkltU26ZEErhWgM3-RBRcCw&usqp=CAU");
+    background-repeat: repeat-y;
+    background-position: right bottom;
+    
+}
+.img{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJXxpmLrxJUIIkltU26ZEErhWgM3-RBRcCw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: left top;
+
+}
